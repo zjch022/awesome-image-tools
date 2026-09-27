@@ -44,6 +44,7 @@ Convert images between different formats.
 
 - [CloudConvert](https://cloudconvert.com) – High-quality image format conversion with API support.
 - [Convertio](https://convertio.co) – Supports a wide range of image formats and batch conversions.
+- [FileOnTap](https://fileontap.com/) – Free browser-local HEIC, WebP, PNG and JPG conversion (plus image↔PDF); no upload or account required.
 - [Online-Convert](https://image.online-convert.com) – Image conversion with optional advanced settings.
 
 ---
